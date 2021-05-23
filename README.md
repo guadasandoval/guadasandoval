@@ -1,33 +1,29 @@
 ![image](go1.jpg)
 
- ⚙️ I use daily: .php, .js, .html, .css, .svg, .psd, .ai
+## Mi dia a dia :gem:
+
+ ⚙️ Actualmente estoy trabajando en .go, .ts, .html, .sql, .psd, .ai
  
- 🌱 Learning all about Open Source
+ 🌱 Actualmente estoy aprendiendo GO, Angular, Docker
  
- 🤔 I'm looking for help with Typescript and React
-
-- GitHub Stats
-- Most used languages
-
-- iconos redes 
-- articulo de medium
-
-
+ 🤔 Estoy buscando colaborar en proyectos de diversidad de género e inclusión
+ 
+ ⚡ Fun fact: Me gusta escribir, mirar proyectos en Behance y las plantas
+ 
 ![Guada GitHub stats](https://github-readme-stats.vercel.app/api?username=guadasandoval&count_private=true&show_icons=true&theme=buefy)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guadasandoval&layout=compact)](https://github.com/guadasandovl/github-readme-stats)
 
+## Lo que disfruto hacer :green_book:
 
-<!--
-**guadasandoval/guadasandoval** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[Botti](https://medium.com/@guadastoop/botti-mi-humilde-aplicaci%C3%B3n-de-slack-hecha-en-java-97f122d8c07)
 
-Here are some ideas to get you started:
+[Diseño de servicios](https://www.behance.net/gallery/84224841/Proyecto-de-Graducacion-Diseno-de-servicios)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Encontrame en 
+
+![Twitter URL](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2Fguadasandoval10)
+
+
+
+
+
