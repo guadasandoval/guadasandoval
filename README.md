@@ -1,7 +1,21 @@
 ![image](go1.jpg)
 
+ ⚙️ I use daily: .php, .js, .html, .css, .svg, .psd, .ai
+ 
+ 🌱 Learning all about Open Source
+ 
+ 🤔 I'm looking for help with Typescript and React
 
-### Hi👋 soy Guada 
+- GitHub Stats
+- Most used languages
+
+- iconos redes 
+- articulo de medium
+
+
+![Guada GitHub stats](https://github-readme-stats.vercel.app/api?username=guadasandoval&count_private=true&show_icons=true&theme=buefy)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guadasandoval&layout=compact)](https://github.com/guadasandovl/github-readme-stats)
+
 
 <!--
 **guadasandoval/guadasandoval** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
